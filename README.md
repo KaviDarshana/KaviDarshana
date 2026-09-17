@@ -1,12 +1,74 @@
-- 👋 Hi, I’m @KaviDarshana
-- 👀 I’m interested in AI, ML, NLP, and Data Science
-- 🌱 I’m currently learning BIT @ University of Moratuwa
-- 💞️ I’m looking to collaborate on interesting projects
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👨‍💻 Hi, I'm Kavindu D Herath
 
-<!---
-KaviDarshana/KaviDarshana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Final-Year IT Undergraduate @ University of Moratuwa | Founder, Educator, and Aspiring Technologist**
+
+I am a data-driven problem solver and technologist. I specialize in turning complex challenges into scalable, real-world solutions by engineering software applications and exploring advanced fields like AI, Cloud Infrastructure, and Graph Databases. 
+
+🚀 **Currently seeking opportunities to build impactful, data-driven applications leveraging my background in full-stack development and AI.**
+
+---
+
+### 💼 Fast Facts
+- 🎓 **Education:** Final-year IT Undergraduate, University of Moratuwa, Sri Lanka.
+- 🏢 **Leadership:** Founder & Head of Operations at Mora Pinnacles. I tutor Mathematics, bringing an analytical, real-world problem-solving mindset into the classroom to help students understand the "magic" behind the math.
+- 🗣️ **Languages:** English (Fluent) & Sinhala (Native).
+
+---
+
+### 🛠️ Tech Stack & Tools I've Worked With
+
+**Languages:**  
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="24" alt="Java" /> Java &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="24" alt="Python" /> Python &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="24" alt="JavaScript" /> JavaScript &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="24" alt="PHP" /> PHP &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="24" alt="HTML" /> HTML5 &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="24" alt="CSS" /> CSS3 &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="24" alt="SQL" /> SQL
+
+<br>
+
+**Libraries & Frameworks:**  
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="24" alt="React" /> React &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="24" alt="NodeJS" /> Node.js &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="24" alt="Tailwind" /> Tailwind CSS &nbsp;&nbsp;&nbsp;&nbsp;
+🗺️ Leaflet
+
+<br>
+
+**Databases & Cloud:**  
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg" height="24" alt="Neo4j" /> Neo4j &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="24" alt="PostgreSQL" /> PostgreSQL &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" height="24" alt="Oracle" /> Oracle Cloud &nbsp;&nbsp;&nbsp;&nbsp;
+✨ Gemini API
+
+<br>
+
+**Tools & IDEs:**  
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="24" alt="VS Code" /> VS Code &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="24" alt="IntelliJ" /> IntelliJ IDEA &nbsp;&nbsp;&nbsp;&nbsp;
+🌌 Google Antigravity IDE &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="24" alt="Git" /> Git &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="24" alt="Jupyter" /> Jupyter &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="24" alt="Canva" /> Canva &nbsp;&nbsp;&nbsp;&nbsp;
+📦 XAMPP &nbsp;&nbsp;&nbsp;&nbsp;
+🧪 SoapUI &nbsp;&nbsp;&nbsp;&nbsp;
+🚀&nbsp;Apache&nbsp;JMeter
+
+---
+
+### 🏆 Key Certifications
+- **Oracle Cloud 2025:** Certified AI Foundations Associate & Foundations Associate
+- **Neo4j:** Graph Data Modeling & Cypher Fundamentals
+- **HP Life & Sololearn:** Agile Project Management, Data Science & Analytics
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=KaviDarshana&show_icons=true&title_color=631cb6&icon_color=e2a952&text_color=333333&bg_color=ffffff&hide_border=true" alt="Kavindu's GitHub Stats" />
+</p>
