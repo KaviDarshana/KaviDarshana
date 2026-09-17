@@ -69,6 +69,7 @@ I am a data-driven problem solver and technologist. I specialize in turning comp
 ---
 
 ### 📊 GitHub Stats
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaviDarshana&show_icons=true&title_color=631cb6&icon_color=e2a952&text_color=333333&bg_color=ffffff&hide_border=true" alt="Kavindu's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaviDarshana&hide_border=true&title_color=631cb6&icon_color=e2a952&text_color=333333&background=ffffff" alt="Kavindu's GitHub Stats" />
 </p>
