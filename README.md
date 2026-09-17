@@ -1,6 +1,6 @@
 # 👨‍💻 Hi, I'm Kavindu D Herath
 
-**Final-Year IT Undergraduate @ University of Moratuwa | Founder, Educator, and Aspiring Technologist**
+**💠Final-Year IT Undergraduate @ University of Moratuwa 💠Founder, Educator, and Aspiring Technologist**
 
 I am a data-driven problem solver and technologist. I specialize in turning complex challenges into scalable, real-world solutions by engineering software applications and exploring advanced fields like AI, Cloud Infrastructure, and Graph Databases. 
 
