@@ -63,7 +63,7 @@ I am a data-driven problem solver and technologist. I specialize in turning comp
 
 ### 🏆 Key Certifications
 - **Oracle Cloud 2025:** Certified AI Foundations Associate & Foundations Associate
-- **Neo4j:** Graph Data Modeling & Cypher Fundamentals
+- **Neo4j:** Graph Data Modeling, Neo4j, and Cypher Fundamentals
 - **HP Life & Sololearn:** Agile Project Management, Data Science & Analytics
 
 ---
