@@ -73,3 +73,8 @@ I am a data-driven problem solver and technologist. I specialize in turning comp
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaviDarshana&hide_border=true&title_color=631cb6&icon_color=e2a952&text_color=333333&background=ffffff" alt="Kavindu's GitHub Stats" />
 </p>
+
+### 🏙️ 3D Contribution Graph
+<p align="left">
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
+</p>
