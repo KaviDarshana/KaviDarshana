@@ -82,5 +82,5 @@ I am a data-driven problem solver and technologist. I specialize in turning comp
 ---
 ### 📫 Let's Connect
 Feel free to reach out if you're looking for a developer, have a question, or just want to connect!
-- **Email:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;** kavindudherath@gmail.com
+- **Email&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:** kavindudherath@gmail.com
 - **LinkedIn:** www.linkedin.com/in/kavindu-d-herath
