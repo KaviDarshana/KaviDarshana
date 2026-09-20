@@ -94,9 +94,9 @@ No activity tracked
 
 ---
 
-### 📰 Latest Updates from Mora Pinnacles
-<!-- START_SECTION:feed -->
-<!-- END_SECTION:feed -->
+### 📰 Latest Articles by Me ✍️
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
