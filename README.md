@@ -96,6 +96,7 @@ No activity tracked
 
 ### 📰 Latest Articles by Me ✍️
 <!-- BLOG-POST-LIST:START -->
+- [Why Data Mining Matters &lpar;And How It Actually Works&rpar;](https://medium.com/@kavindudherath/why-data-mining-matters-and-how-it-actually-works-05b1f913df32?source=rss-a9f8f8be4105------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
