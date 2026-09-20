@@ -12,5 +12,5 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: gautamkrishnar/blog-post-workflow@master
-        with:          
-          feed_list: "https://morapinnacles.com/feed/"
+        with:
+          feed_list: "https://medium.com/feed/@kavindudherath"
