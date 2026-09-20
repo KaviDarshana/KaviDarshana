@@ -93,6 +93,13 @@ No activity tracked
 </p>
 
 ---
+
+### 📰 Latest Updates from Mora Pinnacles
+<!-- START_SECTION:feed -->
+<!-- END_SECTION:feed -->
+
+---
+
 ### 📫 Let's Connect
 Feel free to reach out if you're looking for a developer, have a question, or just want to connect!
 - **Email&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:** kavindudherath@gmail.com
