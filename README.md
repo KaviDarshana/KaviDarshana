@@ -63,6 +63,13 @@ I am a data-driven problem solver and technologist. I specialize in turning comp
 
 ### ⏱️ Weekly Coding Activity
 <!--START_SECTION:waka-->
+
+```txt
+From: 12 September 2026 - To: 19 September 2026
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ---
