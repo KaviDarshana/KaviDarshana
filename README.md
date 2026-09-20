@@ -61,6 +61,10 @@ I am a data-driven problem solver and technologist. I specialize in turning comp
 
 ---
 
+### ⏱️ Weekly Coding Activity
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### 🏆 Key Certifications
 - **Oracle Cloud 2025:** Certified AI Foundations Associate & Foundations Associate
 - **Neo4j:** Graph Data Modeling, Neo4j, and Cypher Fundamentals
