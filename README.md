@@ -101,6 +101,12 @@ No activity tracked
 
 ---
 
+### ⚡ Recent GitHub Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ### 📫 Let's Connect
 Feel free to reach out if you're looking for a developer, have a question, or just want to connect!
 - **Email&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:** kavindudherath@gmail.com
