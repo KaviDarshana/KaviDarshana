@@ -84,7 +84,7 @@ No activity tracked
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaviDarshana&hide_border=true&title_color=631cb6&icon_color=e2a952&text_color=333333&background=ffffff" alt="Kavindu's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaviDarshana&hide_border=true&title_color=631cb6&icon_color=e2a952&text_color=333333&background=ffffff&timezone=Asia/Colombo&v=1" alt="Kavindu's GitHub Stats" />
 </p>
 
 ### 🏙️ 3D Contribution Graph
