@@ -107,7 +107,7 @@ Git Config   2 mins                >------------------------   02.40 %
 
 ### ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/KavinduDHerath/Programming-Sandbox/issues/1) in [KavinduDHerath/Programming-Sandbox](https://github.com/KavinduDHerath/Programming-Sandbox)
+1. 🔒 Closed issue [#1](https://github.com/KavinduDHerath/Programming-Sandbox/issues/1) in [KavinduDHerath/Programming-Sandbox](https://github.com/KavinduDHerath/Programming-Sandbox)
 <!--END_SECTION:activity-->
 
 ---
